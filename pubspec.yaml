@@ -1,7 +1,7 @@
 name: luke_input_tracker
-description: "A new Flutter FFI plugin project."
+description: "Track mouse and keyboard events within and outside of your app, even without focus."
 version: 0.0.1
-homepage:
+homepage: https://github.com/luk3d/luke_input_tracker
 
 environment:
   sdk: ^3.8.1
@@ -41,10 +41,10 @@ flutter:
   # Please refer to README.md for a detailed explanation.
   plugin:
     platforms:
-      android:
-        ffiPlugin: true
-      ios:
-        ffiPlugin: true
+      # android:
+      #   ffiPlugin: true
+      # ios:
+      #   ffiPlugin: true
       linux:
         ffiPlugin: true
       macos:
