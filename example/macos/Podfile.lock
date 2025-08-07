@@ -1,0 +1,22 @@
+PODS:
+  - FlutterMacOS (1.0.0)
+  - luke_input_tracker (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - luke_input_tracker (from `Flutter/ephemeral/.symlinks/plugins/luke_input_tracker/macos`)
+
+EXTERNAL SOURCES:
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  luke_input_tracker:
+    :path: Flutter/ephemeral/.symlinks/plugins/luke_input_tracker/macos
+
+SPEC CHECKSUMS:
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  luke_input_tracker: 8198824475835b14bbe3dec12cf41bc6f3228d89
+
+PODFILE CHECKSUM: 204ba4726fceb7223dea816c1ca0900ee58ab9bd
+
+COCOAPODS: 1.16.2
